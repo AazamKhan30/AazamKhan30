@@ -2,7 +2,7 @@
 
 I am Aazam Khan, currently working as a Frontend Developer at the [Kestone](https://kestoneglobal.com/). I am a Frontend developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-aazamkhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/azamkhan123)](www.linkedin.com/in/azamkhan123)
+[![Linkedin Badge](https://img.shields.io/badge/-aazamkhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/azamkhan123)](https://www.linkedin.com/in/azamkhan123)
 [![Medium Badge](https://img.shields.io/badge/Aazam-khan-12100E?style=flat-square&logo=medium&logoColor=white&link=#)](#)
 [![Gmail Badge](https://img.shields.io/badge/-azam.khan323@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:azam.khan323@gmail.com)](mailto:azam.khan323@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/azam.khan-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/azam.khan.5076)](https://www.facebook.com/azam.khan.5076)
